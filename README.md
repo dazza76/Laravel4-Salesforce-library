@@ -1,5 +1,7 @@
 Laravel4-Salesforce-library
 ===========================
+fork Please use ronster/salesforce
+This will be broken
 
 ## Installation
 
